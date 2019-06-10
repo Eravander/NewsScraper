@@ -3,11 +3,11 @@ body, html {
 }
 
 body {
-  background-image: url("../images/lined_paper.png");
+  background-image: url(../images/lined_paper.png);
 }
 .titleJumbotron {
   margin: 0px;
-  background: url("../images/coffee_image.jpg") no-repeat center center;
+  background: url(../images/coffee_image.jpg) no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
 }
@@ -15,7 +15,7 @@ body {
 .headerDivJumbotron {
   margin-top: 50px;
   margin-bottom: 50px;
-  background: url("../images/lined_paper.png");
+  background: url(../images/lined_paper.png);
   text-align: center;
   border: 5px solid black;
   padding: 20px;
@@ -29,13 +29,13 @@ body {
 }
 
 #subheaderJumbotron {
-  background: url("../images/lined_paper.png");
+  background: url(../images/lined_paper.png);
   font-family: 'Open Sans', sans-serif;
   font-size: 30px
 }
 
 #navbar {
-  background-image: url("../images/chalkboard.jpg");
+  background-image: url(../images/chalkboard.jpg);
 padding: 10px 30px 10px 30px;
 font-family: 'Special Elite', cursive;
 overflow: hidden;
